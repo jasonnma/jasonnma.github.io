@@ -15,6 +15,6 @@
 There is now a study to find out whether *you*🫵 are cool or not. [Details](https://www.nytimes.com/2025/06/30/well/mind/cool-people-traits-study.html) can be found here
 
 > [!TIP]
-> Drink water or you can get <ins>**DEHYDRATED**</ins> 😱
+> Drink water or you can get <ins>**DEHYDRATED**</ins> 😱 (this works in the repository but not here)
 
 
